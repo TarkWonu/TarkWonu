@@ -2,7 +2,7 @@
 🎮- StudentGameDeveloper (Sunrin Internet HighSchool 120th)
 
 ## Stack
-<img src="https://skillicons.dev/icons?i=unity,cpp,react,c,python,figma,cs" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,figma,react,html,css,js,ts" />
 
 ## algoritm solve(Beakjoon)
 ### Tier
