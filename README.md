@@ -3,7 +3,7 @@
 </div>
 
 ## Introduce
-🎮- StudentGameDeveloper (Sunrin Internet HighSchool 120th)
+🎮- StudentGameDeveloper
 
 ## Stack
 <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python" />
