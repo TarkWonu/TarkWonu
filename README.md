@@ -5,8 +5,11 @@
 ## Introduce
 🎮- StudentGameDeveloper
 
+
 ## Stack
 <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarkWonu&langs_count=10&layout=compact&theme=dark)﻿
 
 ## algoritm solve(Beakjoon)
 ### Tier
