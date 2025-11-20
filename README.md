@@ -7,7 +7,11 @@
 
 
 ## Stack
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python" />
+### Language
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=unity,figma" />
 
 
 
