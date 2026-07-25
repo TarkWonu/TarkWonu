@@ -3,7 +3,9 @@
 </div>
 
 ## Introduce
-🎮- StudentGameDeveloper
+📚 SRIHS 120th
+💻 C,real 3rd
+🎮 GameDeveloper
 
 
 ## Stack
