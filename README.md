@@ -3,9 +3,13 @@
 </div>
 
 ## Introduce
-📚 SRIHS 120th
-💻 C,real 3rd
-🎮 GameDeveloper
+<ul>
+<li>📚SRIHS 120th</li>
+<li>💻 C,real 3rd</li>
+<li>🎮 GameDeveloper</li>
+</ol>
+</ul>
+
 
 
 ## Stack
