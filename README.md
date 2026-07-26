@@ -19,10 +19,6 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=unity,figma" />
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h_nol&hide=contribs,prs&show_icons=true)
-
-
 
 
 
