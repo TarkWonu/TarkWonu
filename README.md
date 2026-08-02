@@ -19,6 +19,9 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=unity,figma" />
 
+## Algorithm Solve
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tarkwonu)](https://solved.ac/tarkwonu)
+
 
 
 
