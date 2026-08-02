@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=cs,cpp,c,python" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=unity,figma" />
+<img src="https://skillicons.dev/icons?i=unity,figma,notion" />
 
 ## Algorithm Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tarkwonu)](https://solved.ac/tarkwonu)
