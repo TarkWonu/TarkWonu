@@ -6,6 +6,7 @@
 <ul>
 <li>📚SRIHS 120th</li>
 <li>💻 C,real 3rd</li>
+<li>🦈 SHARC 10th</li>
 <li>🎮 GameDeveloper</li>
 </ol>
 </ul>
